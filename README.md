@@ -172,10 +172,4 @@ Headers:
 
 ---
 
-## Screenshots
-
-### Video Streaming Page
-![Screenshot of the Video Streaming Page](screenshot.png)
-
----
 
